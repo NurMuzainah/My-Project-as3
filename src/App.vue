@@ -8,9 +8,8 @@ import HelloWorld from './components/HelloWorld.vue'
     <h1 class="text-2xl font-bold underline">
           My Profile
         </h1><br>
-       <div class="aspect-w-2 aspect-h-3 rounded-lg overflow-hidden sm:col-span-4 lg:col-span-5">
-          <img class="inline-block rounded-full w-32 border-2 border-gray-300" src="./assets/photo.jpeg"><br><br>
-           
+     <div class="bg-white shadow overflow-hidden sm:rounded-lg">
+     
        <div class="border-t border-gray-200">
           <dl>
             <div class="bg-blue-50 px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
