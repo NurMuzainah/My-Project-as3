@@ -9,7 +9,7 @@ import HelloWorld from './components/HelloWorld.vue'
           My Profile
         </h1><br>
      <div class="bg-white shadow overflow-hidden sm:rounded-lg">
-     
+      <img class="inline-block rounded-full w-32 border-2 border-gray-300" src="./assets/photo.jpeg"><br><br>
        <div class="border-t border-gray-200">
           <dl>
             <div class="bg-blue-50 px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
