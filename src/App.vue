@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
     <h1 class="text-2xl font-bold underline">
-          My Profile
+          Profile
         </h1><br>
      <div class="bg-white shadow overflow-hidden sm:rounded-lg">
       <img class="inline-block rounded-full w-32 border-2 border-gray-300" src="./assets/photo.jpeg"><br><br>
